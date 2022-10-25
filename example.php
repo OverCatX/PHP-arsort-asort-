@@ -17,7 +17,7 @@ foreach($scores as $key => $values){
    echo "Name: ".$key." Score: ".$values."\n";
 }
 
-/* Exanple ทำ TopScore เรียงจากคะแนนที่มากสุดไปหาน้อยสุด*/
+/* Example ทำ TopScore เรียงจากคะแนนที่มากสุดไปหาน้อยสุด*/
 $scores = array("OverCatX" => 90,
                 "RictorX" => 80,
                 "TheBesses" => 70);
