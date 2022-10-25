@@ -1,3 +1,4 @@
+<?php
 /* Func arsort เรัยงจากค่ามากไปหาน้อย */
 $scores = array("OverCatX" => 90,
                 "RictorX" => 80,
@@ -29,3 +30,4 @@ foreach($scores as $key => $values){
    }
    ++$i;
 }
+?>
